@@ -1,0 +1,25 @@
+{
+  "name": "AddToGitHub",
+  "version": "1.0.0",
+  "description": "",
+   "type":"module",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackgirlbytes/AddToGitHub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackgirlbytes/AddToGitHub/issues"
+  },
+  "homepage": "https://github.com/blackgirlbytes/AddToGitHub#readme",
+  "dependencies": {
+    "@jlengstorf/get-share-image": "^0.8.0",
+    "react-helmet": "^6.1.0"
+  }
+}
